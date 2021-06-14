@@ -1,5 +1,21 @@
+body {
+  background-color: grey;
+}
 h1 {
-  color: salmon;
+  color: #99cccc;
   text-align: center;
 }
-
+h3 {
+  color: black;
+  text-align: center;
+}
+p {
+  font-size: 40px;
+  color: #99cccc;
+  text-align: left;
+}
+p2 {
+  font-size: 40px;
+  color: #99cccc;
+  text-align: left;
+}
